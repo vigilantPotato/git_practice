@@ -9,3 +9,6 @@ git checkout master
 
 ひとつ前のブランチに切り替える
 git checkout -
+
+ブランチをマージする
+マージ先のブランチに移動後、git merge --no-ff branch_name
