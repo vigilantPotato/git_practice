@@ -1,5 +1,5 @@
 def laa():
-    print("test")
+    print("merge test")
 
 def another_laa():
     print("test2")
