@@ -13,3 +13,5 @@ git checkout -
 ブランチをマージする
 マージ先のブランチに移動後、git merge --no-ff branch_name
 →エディタが立ち上がる
+
+masterブランチ以外のブランチへ送信するテスト
